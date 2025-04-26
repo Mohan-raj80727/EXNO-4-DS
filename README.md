@@ -268,4 +268,4 @@ print(f"Model accuracy using Fisher Score selected features: {accuracy}")
 ![image](https://github.com/user-attachments/assets/56c2ef66-6513-4604-86e0-16743eb6cdde)
 
 # RESULT:
-       Feature Scaling and Feature Selection is successfully implemented.
+ Feature Scaling and Feature Selection is successfully implemented.
